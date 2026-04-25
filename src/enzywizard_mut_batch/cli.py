@@ -7,7 +7,7 @@ from .commands.mut_batch import add_mut_batch_parser
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="enzywizard-mut-batch",
-        description="EnzyWizard-Mut-Batch: Runn paired EnzyWizard analysis workflows for a wild-type protein and its mutant."
+        description="EnzyWizard-Mut-Batch: Run paired EnzyWizard analysis workflows for a wild-type protein and its mutant."
     )
 
     add_mut_batch_parser(parser)
