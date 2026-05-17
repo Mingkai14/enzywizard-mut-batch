@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1219039494.svg)](https://doi.org/10.5281/zenodo.19709927)
 # Command: enzywizard-mut-batch
 
 EnzyWizard-Mut-Batch is a command-line tool for running paired EnzyWizard
